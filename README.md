@@ -1,1 +1,1 @@
-# Klasifikasi-Gambar_dicoding
+*** Project ini merupakan bukti hasil pengerjaan saya terkait akademi Belajar Machine Learning untuk Pemula dari Dicoding Academy. Adapun persyaratan untuk lulus dari akademi tersebut yakni saya diharuskan memgerjakan dan mengirimkan submission berupa program jaringan saraf tiruan menggunakan TensorFlow. Dimana program harus mampu mengenali bentuk tangan yang membentuk gunting, batu, atau kertas. ***
